@@ -378,3 +378,9 @@ a:visited {
 .popup .close:hover {
   color: black;
 }
+
+.newStuffSponsors
+{
+  display: flex;
+  align-items: flex-start;
+}
